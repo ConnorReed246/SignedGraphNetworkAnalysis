@@ -1,6 +1,6 @@
 # SignedGraphNetworkAnalysis
 
-###Prompt
+###  Prompt
 Here's a task, some code to solve and an image that's the result of node variation within the community. Is all of it accurate?
 Task:Identify the communities of the network using k-plex algorithm as implemented in Networkx. Use appropriate visualization tools to display a dense representation of these communities. I want you to start by identifying the largest component in the graph, say V, and the smallest degree d of all nodes of V, then the k-value (in k-plex) whose outcome will be the subgraph V is |V|-d.  You can proceed by exploring other components in the graph and identify the corresponding value of k accordingly as previously.. Check for specific value of k, the result should be associated to the largest set (subgraph).
 Code:
